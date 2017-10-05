@@ -1,5 +1,7 @@
 # AngularBootstrapBoilerplate
 
+This is a basic angular 4 / bootstrap ^3.3.7 template. Very Simple.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Development server
