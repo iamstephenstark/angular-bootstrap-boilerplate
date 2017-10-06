@@ -9,6 +9,6 @@ describe('angular-bootstrap-boilerplate App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('Welcome to app!');
+    expect(page.getParagraphText()).toEqual('Welcome to angular-bootstrap-boilerplate!');
   });
 });
