@@ -1,4 +1,4 @@
-# AngularBootstrapBoilerplate
+# Angular Bootstrap Boilerplate
 
 This is a basic angular 4 / bootstrap ^3.3.7 template. Very Simple.
 
