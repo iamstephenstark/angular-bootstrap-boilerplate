@@ -4,6 +4,10 @@ This is a basic angular 4 / bootstrap ^3.3.7 template. Very Simple.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
+## Firebase Support
+
+Run `ng dist --prod && firebase deploy`. This will build production Angular version and deploy to Firebase
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
